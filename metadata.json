@@ -1,0 +1,6 @@
+{
+  "name": "Joel's Barber Shop - California City, CA",
+  "description": "Premium website demonstration for Joel's Barber Shop in California City, CA. Features verified Google ratings, services showcase, photo gallery, and direct call-to-book connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
